@@ -32,7 +32,7 @@ Preregistrations for the experiments are available on [The Open Science Framewor
 
 #### R
 
-`ReasonablenessMedians.Rmd` is the primary analyses file. In this file, it contains all the analyses for the experiments in the paper. A knitted HTML document can be downloaded at `ReasonablenessMedians.html` within the github repository.
+`ReasonablenessMedians_072025.Rmd` is the primary analyses file. In this file, it contains all the analyses for the experiments in the paper. A knitted HTML document can be downloaded at `ReasonablenessMedians_072025.html` within the github repository.
 
 ### Data
 
@@ -44,10 +44,10 @@ This contains the data visualization generated in R and included in the paper. S
 
 ## Paper Results
 
-All results is analyzed and in visualized `ReasonablenessMedians.Rmd`. All paper results are included in the document. Knitted HTML document can be viewed `ReasonablenessMedians.html`, and can be accessed [here](https://dgk-law-and-cognition-lab.github.io/natureofreasonableness_crosscultural/Code/R/ReasonablenessMedians.html) for your own viewing.
+All results is analyzed and in visualized `ReasonablenessMedians_072025.Rmd`. All paper results are included in the document. Knitted HTML document can be viewed `ReasonablenessMedians_072025.html`, and can be accessed [here](https://dgk-law-and-cognition-lab.github.io/natureofreasonableness_crosscultural/Code/R/ReasonablenessMedians_072025.html) for your own viewing.
 
 ## Software versions 
 
 Analysis was performed in R version 4.2.2.
 
-R package versions are indicated in the knitted analysis file at `ReasonablenessMedians.html`.
+R package versions are indicated in the knitted analysis file at `ReasonablenessMedians_072025.html`.

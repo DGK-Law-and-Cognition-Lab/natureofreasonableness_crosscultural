@@ -44,7 +44,7 @@ This contains the data visualization generated in R and included in the paper. S
 
 ## Paper Results
 
-All results is analyzed and in visualized `ReasonablenessMedians_072025.Rmd`. All paper results are included in the document. Knitted HTML document can be viewed `ReasonablenessMedians_072025.html`, and can be accessed [here](https://dgk-law-and-cognition-lab.github.io/natureofreasonableness_crosscultural/Code/R/ReasonablenessMedians_072025.html) for your own viewing.
+All results is analyzed and in visualized `ReasonablenessMedians_072025.Rmd`. All paper results are included in the document. Knitted HTML document can be viewed `ReasonablenessMedians_072025.html`, and can be accessed [here](https://dgk-law-and-cognition-lab.github.io/natureofreasonableness_crosscultural/Code/R/ReasonablenessMedians_072025.html) for your own viewing. Further analyses also can be found [here](https://dgk-law-and-cognition-lab.github.io/natureofreasonableness_crosscultural/Code/R/rsn_update.html)
 
 ## Software versions 
 
